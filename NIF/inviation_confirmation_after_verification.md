@@ -3,7 +3,7 @@
 
 Now that you have accepted your invitation 
 and your registration is complete, you may
-begin to access allocated the following NIF services when you have been allocated to projects.
+begin to access the following NIF services when you have been allocated to projects.
 
 XNAT: [https://xnat-aaf.ais.sydney.edu.au/](https://xnat-aaf.ais.sydney.edu.au/)
 
